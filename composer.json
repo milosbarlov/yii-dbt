@@ -1,0 +1,15 @@
+{
+    "name": "pheat/yii-dbt",
+    "description": "DBT is a Yii module that handles translations in database.",
+    "keywords": ["php", "yii", "database", "translation", "i18n"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Thomas Breuss",
+            "email": "me@tebe.ch"
+        }
+    ],
+    "require": {
+        "yiisoft/yii": ">=1.4.0"
+    }
+}
