@@ -31,6 +31,7 @@ class DbtModule extends CWebModule
                 'users' => array('*')
             )
         );
+        $this->languageModel = 'Language';
     }
 
     /**
