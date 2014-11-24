@@ -1,5 +1,5 @@
 {
-    "name": "pheat/yii-dbt",
+    "name": "tbreuss/yii-dbt",
     "description": "DBT is a Yii module that handles translations in database.",
     "keywords": ["php", "yii", "database", "translation", "i18n"],
     "license": "BSD-3-Clause",
